@@ -3,7 +3,7 @@
 
 ### ✨ 저의 능력은요
 * Python
-* Javascript (Node.js, Electron, Express) 
+* Javascript (Node.js, Express, React, Electron, ) 
 * PHP
 * Mysql
 * html, css(scss)
