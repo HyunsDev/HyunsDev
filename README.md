@@ -17,7 +17,7 @@
 
 ### 🔥 아래 프로젝트를 진행하고 있어요.
 * [Notion Tools](https://www.notion-tools.com/)([@notion-tools](https://github.com/notion-tools)) - 1인 진행 (진행중)
-* [Opize](https://opize.me) - 1인 진행 (진행중)
+* [Opize](https://opize.me)([@opize](https://github.com/opize)) - 1인 진행 (진행중)
   * [Calendar2notion](https://calendar2notion.opize.me) - 1인 진행 (진행중)
 
 ### 🙌 저는 아래 팀에 소속되어 있어요.
