@@ -2,8 +2,8 @@
 새로운 아이디어를 떠올리고, 상상을 현실로 만드는 꼬꼬마 개발자, 혀느현스입니다. 
 
 ### ✨ 저의 능력은요
+* JavaScript (Nodejs, Express, React, Electron, etc.) 
 * Python
-* Javascript (Node.js, Express, React, Electron, ) 
 * PHP
 * Mysql
 * html, css(scss)
