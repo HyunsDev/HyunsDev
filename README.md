@@ -12,9 +12,6 @@
 * [Opize](https://opize.me)([@opize](https://github.com/opize)) - 1인 개발, 사업자
   * [Calendar2notion](https://calendar2notion.opize.me) - 1인 개발
 
-### 🙌 저는 아래 팀에 소속되어 있어요.
-* [세미콜론(semicolon)](https://github.com/develup-semicolon) - 팀원
-
 ### 💬 문의와 SNS
 * 홈페이지 : https://hyuns.dev
 * 이메일 : [hyuns@hyuns.dev](mailto://hyuns@hyuns.dev)
