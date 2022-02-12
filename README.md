@@ -14,6 +14,6 @@
 
 ### 💬 문의와 SNS
 * 홈페이지 : https://hyuns.dev
-* 이메일 : [hyuns@hyuns.dev](mailto://hyuns@hyuns.dev)
+* 이메일 : [hyuns@hyuns.dev](mailto://hyuns@hyuns.dev), [hello@opize.me](hello@opize.me)
 * 유튜브 : [영상](https://www.youtube.com/c/HyunSPRODUCTION/videos), [개발](https://www.youtube.com/channel/UCarkBzs9AYUZDussIi1-Etw)
 * 페이스북 : https://www.facebook.com/hyunsdev/
