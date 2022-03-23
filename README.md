@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"> 반가워요! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunsDev&count_bg=%235E82D1&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=Hello%2C+Hyuns%21&edge_flat=false)](https://hits.seeyoufarm.com)
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"> 반가워요! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunsDev&count_bg=%235E82D1&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=Hello%2C+Hyuns%21&edge_flat=false)](https://github.com/HyunsDev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsdev)](https://github.com/anuraghazra/github-readme-stats)
 
