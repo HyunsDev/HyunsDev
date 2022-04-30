@@ -26,6 +26,7 @@
 저는 다양한 프로젝트를 만드는 것보다는, 한 프로젝트를 길게 이어나가면서, 새로운 부분을 만들고, 개선하는 것을 좋아해요.
 * [Opize](https://opize.me)([@opize](https://github.com/opize)) - 1인 개발, 사업자
   * [Calendar2notion](https://calendar2notion.opize.me) - 1인 개발
+  * [Opize Platform](https://beta.opize.me) - 1인 개발, 개발중
 
 
 ## 💬 SNS
