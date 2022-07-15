@@ -25,8 +25,7 @@
 ## 🔥 아래 프로젝트를 진행하고 있어요.
 * [Opize](https://opize.me)([@opize](https://github.com/opize)) - 1인 개발, 사업자
   * [Calendar2notion](https://calendar2notion.opize.me) - 1인 개발
-  * [Opize Platform](https://beta.opize.me) - 1인 개발, 
-* [Space Gravity](https://space-gravity.hyuns.dev)
+  * [Opize Platform](https://beta.opize.me) - 1인 개발
 
 
 ## 💬 SNS
