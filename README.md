@@ -9,14 +9,6 @@
 올해 고3으로, 서령고등학교에 재학하고 있어요.
 
 ## 🔧 Skill
-|Category|Skill|
-|-|-|
-|Programming|![](https://img.shields.io/badge/javascript-ffca28?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)|
-|Frontend|![](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-|Backend|![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)|
-|Design|![](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Xd-FF61F6?style=for-the-badge&logo=AdobeXd&logoColor=white)|
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsdev)](https://github.com/hyunsdev)
 
 # Blog
