@@ -6,8 +6,6 @@
 
 본명은 `박현우`이지만, `혀느현스`라는 닉네임으로 불리는 걸 선호해요! 짧게 `현스`라고 불러주세요 :)
 
-올해 고3으로, 서령고등학교에 재학하고 있어요.
-
 ## 🔧 Skill
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsdev)](https://github.com/hyunsdev)
 
