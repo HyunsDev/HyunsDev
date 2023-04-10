@@ -2,9 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsdev)](https://github.com/anuraghazra/github-readme-stats)
 
-새로운 아이디어를 떠올리고, 상상을 현실로 만드는 학생 개발자, 혀느현스입니다.
-
-본명은 `박현우`이지만, `혀느현스`라는 닉네임으로 불리는 걸 선호해요! 짧게 `현스`라고 불러주세요 :)
+새로운 아이디어를 떠올리고, 상상을 현실로 만드는 학생 개발자, 박현우입니다!
 
 ## 🔧 Skill
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsdev)](https://github.com/hyunsdev)
