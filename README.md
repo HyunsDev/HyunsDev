@@ -10,12 +10,6 @@
 # Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=phw3071)](https://velog.io/@phw3071)
 
-## 🔥 아래 프로젝트를 진행하고 있어요.
-* [Opize](https://opize.me)([@opize](https://github.com/opize)) - 1인 개발, 사업자
-  * [Calendar2notion](https://calendar2notion.opize.me) - 1인 개발
-  * [Opize Platform](https://beta.opize.me) - 1인 개발
-
-
 ## 💬 SNS
 * 홈페이지 : https://hyuns.dev
 * 이메일 : [hyuns@hyuns.dev](mailto://hyuns@hyuns.dev), [hello@opize.me](hello@opize.me)
