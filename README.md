@@ -6,7 +6,7 @@
 
 **박현우**라는 본명과, **혀느현스**라는 닉네임을 함께 사용하고 있습니다. 편하신대로 불러주세요 :)
 
-https://my.surfit.io/w/1716494256
+[제 자세한 정보와 프로젝트 정보는 이곳에서 확인할 수 있어요](https://my.surfit.io/w/1716494256)
 
 ## 🔧 Skill
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsdev)](https://github.com/hyunsdev)
