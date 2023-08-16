@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsdev)](https://github.com/anuraghazra/github-readme-stats)
 
-새로운 아이디어를 떠올리고, 상상을 현실로 만드는 학생 개발자, 박현우입니다!
+새로운 상상를 떠올리고, 상상을 현실로 만드는 개발자, 박현우입니다!
 
 **박현우**라는 본명과, **혀느현스**라는 닉네임을 함께 사용하고 있습니다. 편하신대로 불러주세요 :)
 
