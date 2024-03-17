@@ -6,7 +6,7 @@
 
 **박현우**라는 본명과, **혀느현스**라는 닉네임을 함께 사용하고 있습니다. 편하신대로 불러주세요 :)
 
-[제 자세한 정보와 프로젝트 정보는 이곳에서 확인할 수 있어요](https://my.surfit.io/w/1716494256)
+제 프로젝트와 발자취는 [현우공간](https://hyuns.space) 에서 확인할 수 있어요.
 
 ## 🔧 Skill
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsdev)](https://github.com/hyunsdev)
@@ -17,9 +17,9 @@
 ## 💬 SNS & Contact
 
 
-* 홈페이지 : https://hyuns.dev
-* 이메일 : [hyuns@hyuns.dev](mailto://hyuns@hyuns.dev), [hello@opize.me](hello@opize.me)
+* 홈페이지 : https://hyuns.dev , https://hyuns.space
+* 이메일 : [hyuns@hyuns.dev](mailto://hyuns@hyuns.dev)
 * 유튜브 : [영상](https://www.youtube.com/c/HyunSPRODUCTION/videos), [개발](https://www.youtube.com/channel/UCarkBzs9AYUZDussIi1-Etw)
 * 페이스북 : https://www.facebook.com/hyunsdev/
-* 인스타그램: https://www.instagram.com/hyunsdev/
-* 디스코드 : 혀느현스#3891
+* 인스타그램: https://www.instagram.com/hyunsdev , https://www.instagram.com/hyuns_space
+* 디스코드 : hyunsdev
